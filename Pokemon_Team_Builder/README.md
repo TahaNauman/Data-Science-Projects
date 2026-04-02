@@ -17,7 +17,7 @@ This project helps users build an optimal Pokémon team based on their chosen **
 
 ## Usage
 
-1. Run the notebook `Phase1_Pokemon_Team_Builder.ipynb`.  
+1. Run the notebook `Pokemon_Team_Builder.ipynb`.  
 2. Enter the region and starter Pokémon when prompted.  
 3. View the suggested team.  
 
